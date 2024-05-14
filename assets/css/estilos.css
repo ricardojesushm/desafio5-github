@@ -11,6 +11,16 @@ body {
   background-position: left;
 }
 
+/* Estilos h3 y h2 */
+h3, h2 {
+  color: rgb(15, 83, 202)
+}
+
+/* Estilo de íconos */
+i{
+  color: rgb(15, 83, 202)
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
