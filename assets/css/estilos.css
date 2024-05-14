@@ -2,10 +2,10 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-/* Hero Section */
+/* Sección de Inicio */
 
-#Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+#inicio {
+  background-image: url("../img/portada.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -22,13 +22,13 @@ body {
 
 /* Contacto */
 
-#Contacto form label {
+#contacto form label {
   font-weight: 700;
   color: #373a3c;
 }
 
 @media (max-width: 768px) {
-  #Contacto form label {
+  #contacto form label {
     font-weight: 400;
   }
 
