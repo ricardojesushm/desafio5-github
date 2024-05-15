@@ -21,13 +21,9 @@ i{
   color: rgb(15, 83, 202)
 }
 
-/* Mis trabajos */
-
-#Mis-trabajos .image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+/* Estilo de sección de planes */
+#planes {
+  background-color: rgb(15, 83, 202)
 }
 
 /* Contacto */
