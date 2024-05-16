@@ -26,13 +26,6 @@ i{
   background-color: rgb(15, 83, 202)
 }
 
-/* Contacto */
-
-#contacto form label {
-  font-weight: 700;
-  color: #373a3c;
-}
-
 @media (max-width: 768px) {
   #contacto form label {
     font-weight: 400;
